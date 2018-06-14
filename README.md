@@ -1,4 +1,4 @@
-# mbile-app
+# mobile-app
 
 Hi folks!
 
