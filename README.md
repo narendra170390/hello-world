@@ -2,4 +2,4 @@
 
 Hi folks!
 
-creating an mobile app.
+creating a mobile app.
